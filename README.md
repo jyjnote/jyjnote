@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center"> 
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=FFA500&height=150&section=header&text=jyjnote&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+
 
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -13,4 +16,12 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
    <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyjnote&show_icons=true&theme=transparent)
+ <br/>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyjnote&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ <br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddosfleks)](https://solved.ac/wjddosfleks)
+</div>
