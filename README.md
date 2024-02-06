@@ -21,7 +21,4 @@
  <br/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyjnote&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
- <br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddosfleks)](https://solved.ac/wjddosfleks)
-</div>
+
