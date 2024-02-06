@@ -14,7 +14,5 @@
    <br/>
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyjnote&show_icons=true&theme=transparent)
- <br/>
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyjnote&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
