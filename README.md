@@ -14,5 +14,4 @@
    
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyjnote&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyjnote&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjnote&theme=transparent)
