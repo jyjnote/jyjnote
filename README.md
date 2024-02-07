@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
    <br/>
    
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyjnote&theme=monokai)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyjnote&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyjnote&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjnote&theme=monokai)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjnote&theme=transparent)
