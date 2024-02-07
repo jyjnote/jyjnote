@@ -10,6 +10,6 @@
    <br/>
    
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyjnote&theme=transparent)
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyjnote&theme=dark&exclude=None)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyjnote&theme=transparent&exclude=None)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjnote&theme=transparent)
 
