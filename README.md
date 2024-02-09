@@ -13,3 +13,31 @@
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyjnote&theme=transparent&exclude=None)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjnote&theme=transparent)
 
+<table>
+<thead>
+<tr>
+ <td>
+  작업명
+ </td>
+   <td>
+  상세
+ </td>
+   <td>
+  날짜
+ </td>
+</tr>
+</thead>
+ <tbody>
+  <tr>
+   <td>
+   데이콘 대출등급 해커톤
+  </td>
+    <td>
+   private 11등
+  </td>
+      <td>
+   2024.01.15 ~ 2024.02.05 09:59
+  </td>
+  </tr>
+ </tbody>
+</table>
