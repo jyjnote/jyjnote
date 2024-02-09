@@ -30,6 +30,17 @@
  <tbody>
   <tr>
    <td>
+   프로젝트 Zigzag
+  </td>
+    <td>
+   준비중
+  </td>
+      <td>
+   2024.01.30 ~ ing
+  </td>
+  </tr>
+  <tr>
+   <td>
    데이콘 대출등급 해커톤
   </td>
     <td>
