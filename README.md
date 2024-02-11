@@ -74,3 +74,58 @@
   </tr>
  </tbody>
 </table>
+
+<table>
+ <thead>
+  <tr>
+   <td>
+    자격증명
+   </td>
+   <td>
+    취득날짜
+   </td>
+  </tr>
+ </thead>
+ <tbody>
+    <tr>
+         <td>
+    정보처리기사
+   </td>
+            <td>
+     추후
+   </td>
+  </tr>
+    <tr>
+         <td>
+    빅데이터분석기사
+   </td>
+            <td>
+     추후
+   </td>
+  </tr>
+  <tr>
+         <td>
+    컴할 1급
+   </td>
+            <td>
+     2023.05.05
+   </td>
+  </tr>
+  <tr>
+      <td>
+    sqld
+   </td>
+   <td>
+    2022.09.30
+   </td>
+  </tr>
+  <tr>
+      <td>
+    adsp
+   </td>
+   <td>
+    2022.06.17
+   </td>
+  </tr>
+ </tbody>
+</table>
