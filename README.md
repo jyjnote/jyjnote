@@ -13,6 +13,10 @@
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyjnote&theme=transparent&exclude=None)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjnote&theme=transparent)
 
+<hr style="height: 3px; border: none; background-color: black;">
+
+
+
 <table>
 <thead>
 <tr>
@@ -27,6 +31,9 @@
  </td>
 </tr>
 </thead>
+
+
+
  <tbody>
   <tr>
    <td>
@@ -74,6 +81,8 @@
   </tr>
  </tbody>
 </table>
+
+<hr style="height: 3px; border: none; background-color: black;">
 
 <table>
  <thead>
