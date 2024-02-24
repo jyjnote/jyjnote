@@ -1,5 +1,8 @@
 <div align="center"> 
 
+---------------------------->딥런닝기반 금융통계
+현재>장고>(리액트)>플라스크>패스트api>미니피씨 서버개설>도커>쿠버네티스>에어플로우>큐베플로우
+
  <br/>
  <div>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
