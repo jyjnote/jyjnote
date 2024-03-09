@@ -1,9 +1,23 @@
-<div align="center"> 
+### 관심분야:
 
----------------------------->딥런닝기반 금융통계
-현재>장고>(리액트)>플라스크>패스트api>미니피씨 서버개설>도커>쿠버네티스>에어플로우>큐베플로우
+- 딥러닝 기반 신용평가
+- 금융 자산 운용
+- 포트폴리오 및 헤지 평가
 
- <br/>
+### 공부하고 있는 기술:
+
+#### 웹 개발:
+- Django (React)
+- Flask
+- FastAPI
+
+#### 인프라 구축:
+- 미니피씨 서버 개설
+- 도커
+- 쿠버네티스
+- 에어플로우
+- 큐베 플로우
+
  <div>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
