@@ -35,8 +35,8 @@
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
-| 자연어 논문 리뷰 및 구현| [자연어 논문 리뷰 및 구현](https://github.com/jyjnote/NLP_Papers_Review) | 2024.03.25 ~ ing |
-| 전남대&조선대| [캡스톤 프로젝트](https://github.com/thr13/Capstone) | 2024.03.23 ~ ing |
+| 자연어 논문 리뷰 및 코드구현| [자연어 논문 리뷰 및 코드구현](https://github.com/jyjnote/NLP_Papers_Review) | 2024.03.25 ~ ing |
+| GIST&전남대&조선대| [캡스톤 프로젝트](https://github.com/thr13/Capstone) | 2024.03.23 ~ ing |
 | 프로젝트 Zigzag | [멀티캠퍼스 주관 프로젝트 최우수상](https://github.com/jyjnote/Zigzag-) | 2024.01.30 ~ 2024.03.20 |
 | 데이콘 대출등급 해커톤 | [private 11등](https://dacon.io/competitions/official/236214/leaderboard) | 2024.01.15 ~ 2024.02.05 |
 | 웹 프로젝트 스위그 Picket | [한해 목표를 담은 웹사이트 출시 및 배포](https://www.swygbro.com/contents) | 2023.11.19 ~ 2024.01.06 |
