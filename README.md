@@ -42,7 +42,7 @@
 | 데이콘 대출등급 해커톤 | [private 11등](https://dacon.io/competitions/official/236214/leaderboard) | 2024.01.15 ~ 2024.02.05 |
 | 웹 프로젝트 스위그 Picket | [한해 목표를 담은 웹사이트 출시 및 배포](https://www.swygbro.com/contents) | 2023.11.19 ~ 2024.01.06 |
 | 전남대 편입학 시각화 | [편준생들을 위한 간단한 태블로 데이터 요약 및 시각화](https://public.tableau.com/app/profile/.56658177/viz/_16978657995030/2) | 2023.10.19 ~ 2023.10.21 |
-| 연세대 데이터사이언스 금융 16기 | [데이터사이언스 교육과정(응용1&2) 16기 금융 트랙](https://public.tableau.com/app/profile/.56658177/viz/_16978657995030/2) | 2023.7.03 ~ 2023.8.25 |
+| 연세대 데이터사이언스 금융 16기 | [데이터사이언스 교육과정(응용1&2) 16기 금융 트랙](https://github.com/jyjnote/CERTIPICATE) | 2023.7.03 ~ 2023.8.25 |
 </div>
 
 <hr style="height: 3px; border: none; background-color: black;">
