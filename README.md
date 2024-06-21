@@ -39,7 +39,7 @@
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
-| (주)Osario 데이터리서처 | [AI도센트 TMIA](https://github.com/Mawangadulnemi/TMIA) | 2024.04.20 ~ ing |
+| (주)Osario 데이터리서처 | [AI도센트 TMIA]([https://github.com/Mawangadulnemi/TMIA](https://github.com/Mawangadulnemi/TMIA)) | 2024.04.20 ~ ing |
 | 자연어 논문 리뷰 및 코드구현 | [자연어 논문 리뷰 및 코드구현](https://github.com/jyjnote/NLP_Papers_Review) | 2024.03.25 ~ ing |
 | GIST&전남대&조선대 | [장애인을 위한 STT-TTS설문 전문 랭체인 챗봇 제작](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ ing |
 | 데이콘 소득AI 해커톤 | [상위 10%](https://dacon.io/competitions/official/236230/leaderboard) | 2024.04.02~ 2024.04.05 |
