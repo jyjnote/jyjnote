@@ -39,9 +39,10 @@
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
+| SW중심대학 디지털 경진대회 | [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
 | (주)Osario 데이터리서처 | [AI도센트 TMIA](https://github.com/Mawangadulnemi/TMIA) | 2024.04.20 ~ ing |
 | 자연어 논문 리뷰 및 코드구현 | [자연어 논문 리뷰 및 코드구현](https://github.com/jyjnote/NLP_Papers_Review) | 2024.03.25 ~ ing |
-| GIST&전남대&조선대 | [장애인을 위한 STT-TTS설문 전문 랭체인 챗봇 제작](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ ing |
+| GIST&전남대&조선대 | [장애인을 위한 STT-TTS설문 전문 랭체인 챗봇 제작](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ 2024.04.23 |
 | 데이콘 소득AI 해커톤 | [상위 10%](https://dacon.io/competitions/official/236230/leaderboard) | 2024.04.02~ 2024.04.05 |
 | 프로젝트 Zigzag | [삼성 멀티캠퍼스 주관 프로젝트 최우수상](https://github.com/jyjnote/Zigzag-) | 2024.01.30 ~ 2024.03.20 |
 | 데이콘 대출등급 해커톤 | [private 11등](https://dacon.io/competitions/official/236214/leaderboard) | 2024.01.15 ~ 2024.02.05 |
