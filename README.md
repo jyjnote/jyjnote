@@ -39,7 +39,7 @@
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
-| SW중심대학 디지털 경진대회 | [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
+| SW중심대학 디지털 경진대회</br>[예선 4위/기업후원상(한글과 컴퓨터)]| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
 | (주)Osario 데이터리서처 | [AI도센트 TMIA](https://github.com/Mawangadulnemi/TMIA) | 2024.04.20 ~ ing |
 | 자연어 논문 리뷰 및 코드구현 | [자연어 논문 리뷰 및 코드구현](https://github.com/jyjnote/NLP_Papers_Review) | 2024.03.25 ~ ing |
 | GIST&전남대&조선대(연합 캡스톤) | [장애인을 위한 STT-TTS설문 전문 랭체인 챗봇 제작](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ 2024.04.23 |
