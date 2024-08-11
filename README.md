@@ -26,6 +26,8 @@
 
 <div align="center">   
  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=robot_generator)](https://solved.ac/robot_generator/) 
+ 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyjnote&theme=transparent)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyjnote&theme=transparent&exclude=None)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjnote&theme=transparent)
