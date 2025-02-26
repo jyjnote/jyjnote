@@ -41,6 +41,7 @@
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
+| 나명환 교수님 스마트팜 학부연구생| [ABAS](https://www.abas.life/) | 2025.02.15 ~ ing |
 | SW중심대학 전국 디지털 경진대회</br>[예선 4위/기업후원상(한글과 컴퓨터)]| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
 | (주)Osario 데이터리서처 | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
 | 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
