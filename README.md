@@ -6,6 +6,24 @@
 자연어, 음성처리 MLE및 멀티모달 전반에 큰 관심이 있습니다.
 </div>
 
+<div style="text-align: center;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+        <!-- 네이버 메일 배지 -->
+        <a href="mailto:wodus1530@naver.com"> 
+            <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:wodus1530@naver.com" alt="Naver">
+        </a>
+        <!-- 구글 메일 배지 -->
+        <a href="mailto:hopio0822@gmail.com"> 
+            <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white&link=mailto:hopio0822@gmail.com" alt="Google">
+        </a>
+    </div>
+    <br> 
+</div>
+
+
+
+
 <div align="center">   
 
 ## 관심 있는 기술
