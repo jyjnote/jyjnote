@@ -6,7 +6,7 @@
 자연어, 음성처리 MLE및 멀티모달 전반에 큰 관심이 있습니다.
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="display: flex; justify-content: center; gap: 10px;">
         <!-- 네이버 메일 배지 -->
