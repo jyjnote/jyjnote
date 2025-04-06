@@ -61,6 +61,7 @@
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
+| Development of a VR-Based Sleep Improvement Program for North Korean Defectors with PTSD: A Multidisciplinary Approach to Reducing Mental Health Disparities | PTSD 이환 북한이탈주민 대상 VR 활용 수면장애 개선 프로그램 개발: 정신건강격차 완화를 위한 다학제적 접근 | 2025.04.03 ~ ing |
 | 나명환 교수님 스마트팜 학부연구생| [ABAS](https://www.abas.life/) | 2025.02.15 ~ ing |
 | SW중심대학 전국 디지털 경진대회</br>[예선 4위/기업후원상(한글과 컴퓨터)]| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
 | (주)Osario 데이터리서처 | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
