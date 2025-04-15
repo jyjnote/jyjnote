@@ -63,7 +63,7 @@
 |:--------:|:------:|:------:|
 |「AIcoss 교내 경진 대회」|준비|~2026.04.30(수)|
 |호남지방통계청「2025년 통계분석 경진대회」|준비|2024.04.02(금)~04.30(수)|
-|「2024 국토∙교통 데이터활용 경진대회」|준비|2024.04.19(금)~06.26(수)|
+|「2025 국토∙교통 데이터활용 경진대회」|준비|2024.04.19(금)~06.26(수)|
 |[한국데이터정보과학회-SAS KOREA] 데이터 분석 경진대회 개최|[대상: 팀 viyavision](https://blogs.sas.com/content/saskorea/2025/03/28/%ed%95%9c%ea%b5%ad%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%a0%95%eb%b3%b4%ea%b3%bc%ed%95%99%ed%9a%8c-sas-korea-%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d-%ea%b2%bd%ec%a7%84%eb%8c%80%ed%9a%8c-%ea%b0%9c/)|2025.03.28~2025.04.30|
 | Development of a VR-Based Sleep Improvement Program for North Korean Defectors with PTSD: A Multidisciplinary Approach to Reducing Mental Health Disparities | PTSD 이환 북한이탈주민 대상 VR 활용 수면장애 개선 프로그램 개발: 정신건강격차 완화를 위한 다학제적 접근 | 2025.04.03 ~ ing |
 | 나명환 교수님 스마트팜 학부연구생| [ABAS](https://www.abas.life/) | 2025.02.15 ~ ing |
