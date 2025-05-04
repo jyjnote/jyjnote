@@ -55,8 +55,8 @@
 
 <hr style="height: 3px; border: none; background-color: black;">
 
-
 <div align="center">
+  <h3>Project & Competition</h3>
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
@@ -80,6 +80,7 @@
 <hr style="height: 3px; border: none; background-color: black;">
 
 <div align="center">
+  <h3>Certification</h3>
 
 | 자격증명 | 취득날짜 |
 |:----------:|:----------:|
@@ -90,5 +91,5 @@
 | adsp | 2022.06.17 |
 | Toefl 87 (만료) | 2022.01 |
 | Toeic 845 (만료) | 2021.8.29 |
-
 </div>
+
