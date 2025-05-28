@@ -63,13 +63,13 @@
 |「2025 국토∙교통 데이터활용 경진대회」|준비|2025.04.19(금)~06.26(수)|
 | Development of a VR-Based Sleep Improvement Program for North Korean Defectors with PTSD: A Multidisciplinary Approach to Reducing Mental Health Disparities | PTSD 이환 북한이탈주민 대상 VR 활용 수면장애 개선 프로그램 개발: 정신건강격차 완화를 위한 다학제적 접근 | 2025.04.03 ~ ing |
 | 나명환 교수님 스마트팜 학부연구생| [ABAS](https://www.abas.life/) | 2025.01.15 ~ ing |
-| Code Club Korea SW봉사활동| [Hello World Award](https://cafe.naver.com/codeclubswvolunteer) | 2024.10.26 ~ 2024.11.22 |
-| SW중심대학 전국 디지털 경진대회</br>[예선 4위/기업후원상(한글과 컴퓨터)]| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
-| (주)Osario 데이터리서처 & AI개발자 | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
+| 🏆Code Club Korea SW봉사활동🏆| [Hello World Award](https://cafe.naver.com/codeclubswvolunteer) | 2024.10.26 ~ 2024.11.22 |
+| 🏆SW중심대학 전국 디지털 경진대회🏆</br>[예선 4위/기업후원상(한글과 컴퓨터)]| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
+| 🏢(주)Osario 데이터리서처 & AI개발자🏢 | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
 | 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
 | GIST&전남대&조선대(연합 캡스톤) | [장애인을 위한 STT-TTS설문 전문 랭체인 챗봇 제작](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ 2024.04.23 |
 | 데이콘 소득AI 해커톤 | [상위 10%](https://dacon.io/competitions/official/236230/leaderboard) | 2024.04.02~ 2024.04.05 |
-| 프로젝트 Zigzag | [삼성 멀티캠퍼스 주관 프로젝트 최우수상](https://github.com/jyjnote/Zigzag-) | 2023.10.16 ~ 2024.03.20 |
+| 🏆프로젝트 Zigzag🏆 | [삼성 멀티캠퍼스 주관 프로젝트 최우수상](https://github.com/jyjnote/Zigzag-) | 2023.10.16 ~ 2024.03.20 |
 | 데이콘 대출등급 해커톤 | [private 11등](https://dacon.io/competitions/official/236214/leaderboard) | 2024.01.15 ~ 2024.02.05 |
 | 웹 프로젝트 스위그 Picket | [한해 목표를 담은 웹사이트 출시 및 배포](https://www.swygbro.com/contents) | 2023.11.19 ~ 2024.01.06 |
 | 전남대 편입학 시각화 | [편준생들을 위한 간단한 태블로 데이터 요약 및 시각화](https://public.tableau.com/app/profile/.56658177/viz/_16978657995030/2) | 2023.10.19 ~ 2023.10.21 |
