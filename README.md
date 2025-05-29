@@ -23,15 +23,13 @@
 
 
 
-<div align="center"> 
-
-## CV
- 
 <div align="center">
-[정재연CV](https://github.com/user-attachments/files/20498110/CV.pdf)
+
+## 👉 [View CV](https://github.com/user-attachments/files/20498110/CV.pdf)
 
 </div>
-</div>
+
+
 <div align="center">   
 
 ## 관심 있는 기술
