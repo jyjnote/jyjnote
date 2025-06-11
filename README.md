@@ -23,14 +23,7 @@
 
 
 
-<div align="center">
 
-## 👉 [View CV](https://github.com/user-attachments/files/20498110/CV.pdf)
-
-</div>
-
-
-<div align="center">   
 
 ## 관심 있는 기술
 
