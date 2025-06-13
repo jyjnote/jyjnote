@@ -51,19 +51,28 @@
 <hr style="height: 3px; border: none; background-color: black;">
 
 <div align="center">
-  <h3>Project & Competition</h3>
+  <h3>𝓟𝓪𝓹𝓮𝓻</h3>
+
+| 작업명 | 상세 | 기간 |
+|:--------:|:------:|:------:|
+| Development of a VR-Based Sleep Improvement Program for North Korean Defectors with PTSD: A Multidisciplinary Approach to Reducing Mental Health Disparities | PTSD 이환 북한이탈주민 대상 VR 활용 수면장애 개선 프로그램 개발: 정신건강격차 완화를 위한 다학제적 접근 | 2025.04.03 ~ 진행 중 |
+| 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
+</div>
+
+<hr style="height: 3px; border: none; background-color: black;">
+
+<div align="center">
+  <h3>𝓟𝓻𝓸𝓳𝓮𝓬𝓽 & 𝓒𝓸𝓶𝓹𝓮𝓽𝓲𝓽𝓲𝓸𝓷</h3>
  
 | 작업명 | 상세 | 날짜 |
 |:--------:|:------:|:------:|
 |「AIcoss 교내 경진 대회」|준비|~2026.04.30(수)|
 |호남지방통계청「2025년 통계분석 경진대회」|준비|2025.04.02(금)~04.30(수)|
 |「2025 국토∙교통 데이터활용 경진대회」|준비|2025.04.19(금)~06.26(수)|
-| Development of a VR-Based Sleep Improvement Program for North Korean Defectors with PTSD: A Multidisciplinary Approach to Reducing Mental Health Disparities | PTSD 이환 북한이탈주민 대상 VR 활용 수면장애 개선 프로그램 개발: 정신건강격차 완화를 위한 다학제적 접근 | 2025.04.03 ~ ing |
 | 나명환 교수님 스마트팜 학부연구생| [ABAS](https://www.abas.life/) | 2025.01.15 ~ 2025.07.15 |
 | 🏆Code Club Korea SW봉사활동🏆| [Hello World Award](https://cafe.naver.com/codeclubswvolunteer) | 2024.10.26 ~ 2024.11.22 |
-| 🏆SW중심대학 전국 디지털 경진대회🏆</br>[예선 4위/기업후원상(한글과 컴퓨터)]| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
+| 🏆SW중심대학 전국 디지털 경진대회🏆</br>[예선 4위/기업후원상(한글과 컴퓨터)]</br>기관: 과학기술정보통신부, SW중심대학협의회| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
 | 🏢(주)Osario 데이터리서처 & AI개발자🏢 | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
-| 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
 | GIST&전남대&조선대(연합 캡스톤) | [장애인을 위한 STT-TTS설문 전문 랭체인 챗봇 제작](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ 2024.04.23 |
 | 데이콘 소득AI 해커톤 | [상위 10%](https://dacon.io/competitions/official/236230/leaderboard) | 2024.04.02~ 2024.04.05 |
 | 🏆프로젝트 Zigzag🏆 | [삼성 멀티캠퍼스 주관 프로젝트 최우수상](https://github.com/jyjnote/Zigzag-) | 2023.10.16 ~ 2024.03.20 |
@@ -76,7 +85,7 @@
 <hr style="height: 3px; border: none; background-color: black;">
 
 <div align="center">
-  <h3>Certification</h3>
+  <h3>𝒞𝑒𝓇𝓉𝒾𝒻𝒾𝒸𝒶𝓉𝒾𝑜𝓃</h3>
 
 | 자격증명 | 취득날짜 |
 |:----------:|:----------:|
