@@ -1,13 +1,13 @@
 
 <div align="center"> 
 
-## 관심분야
+## 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓕𝓲𝓮𝓵𝓭𝓼
 
-자연어, 음성처리 MLE및 멀티모달 전반에 큰 관심이 있습니다.
+𝐼 𝒶𝓂 𝒽𝒾𝑔𝒽𝓁𝓎 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝑒𝒹 𝒾𝓃 𝒩𝒶𝓉𝓊𝓇𝒶𝓁 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒 𝒫𝓇𝑜𝒸𝑒𝓈𝓈𝒾𝓃𝑔, 𝒮𝓅𝑒𝑒𝒸𝒽 𝒫𝓇𝑜𝒸𝑒𝓈𝓈𝒾𝓃𝑔 𝑀𝐿𝐸, 𝒶𝓃𝒹 𝓂𝓊𝓁𝓉𝒾-𝓂𝑜𝒹𝒶𝓁 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔.
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 </h2>
     <div style="display: flex; justify-content: center; gap: 10px;">
         <!-- 네이버 메일 배지 -->
         <a href="mailto:wodus1530@naver.com"> 
@@ -25,7 +25,7 @@
 <div align="center">   
 
 
-## 관심 있는 기술
+## 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼 𝓘’𝓶 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓘𝓷
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)![Azure](https://img.shields.io/badge/azure-%2300CCFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
