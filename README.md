@@ -59,6 +59,8 @@
 | 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
 </div>
 
+<hr style="height: 3px; border: none; background-color: black;">
+
 <div align="center">
   <h3>𝓘𝓷𝓽𝓮𝓻𝓷𝓼𝓱𝓲𝓹</h3>
 
