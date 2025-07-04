@@ -66,10 +66,11 @@
 
 | 기관 | 상세 | 기간 |
 |:--------:|:------:|:------:|
-| aiter(Audio Intelligent Technology & Research Lab)  | [aiter](https://sites.google.com/view/gist-aiter/home) 실시간 텍스트 음성 동시 번역 ai개발 | 2025.06.30 ~ ing |
-| ABAS(Agricultural Big-data Analysis System)  | [ABAS](https://www.abas.life/) 나명환 교수님 스마트팜 학부연구생, 데이터 전처리 및 ML Flow pipeline 개발 관리 | 2025.01.15 ~ 2025.07.15 |
+| [AITER](https://sites.google.com/view/gist-aiter/home) <br/>(Audio Intelligent Technology & Research Lab)  |  실시간 텍스트 음성 동시 번역 AI 개발 | 2025.06.30 ~ ing |
+| [ABAS](https://www.abas.life/) <br/>(Agricultural Big-data Analysis System)  |  나명환 교수님 스마트팜 학부연구생 <br/> 데이터 전처리 및 ML Flow pipeline 개발·관리 | 2025.01.15 ~ 2025.07.15 |
 
 </div>
+
 
 <hr style="height: 3px; border: none; background-color: black;">
 
