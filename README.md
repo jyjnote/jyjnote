@@ -59,6 +59,16 @@
 | 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
 </div>
 
+<div align="center">
+  <h3>𝓘𝓷𝓽𝓮𝓻𝓷𝓼𝓱𝓲𝓹</h3>
+
+| 기관 | 상세 | 기간 |
+|:--------:|:------:|:------:|
+| aiter(Audio Intelligent Technology & Research Lab)  | [aiter](https://sites.google.com/view/gist-aiter/home) 실시간 텍스트 음성 동시 번역 ai개발 | 2025.06.30 ~ ing |
+| ABAS(Agricultural Big-data Analysis System)  | [ABAS](https://www.abas.life/) 나명환 교수님 스마트팜 학부연구생, 데이터 전처리 및 ML Flow pipeline 개발 관리 | 2025.01.15 ~ 2025.07.15 |
+
+</div>
+
 <hr style="height: 3px; border: none; background-color: black;">
 
 <div align="center">
@@ -68,7 +78,6 @@
 |:--------:|:------:|:------:|
 |「AIcoss 교내 경진 대회」|준비|~2026.04.30(수)|
 |호남지방통계청「2025년 통계분석 경진대회」|준비|2025.04.02(금)~04.30(수)|
-| 나명환 교수님 스마트팜 학부연구생| [ABAS](https://www.abas.life/) | 2025.01.15 ~ 2025.07.15 |
 | 🏆Code Club Korea SW봉사활동🏆| [Hello World Award](https://cafe.naver.com/codeclubswvolunteer) | 2024.10.26 ~ 2024.11.22 |
 | 🏆SW중심대학 전국 디지털 경진대회🏆</br>[예선 4위/기업후원상(한글과 컴퓨터)]</br>기관: 과학기술정보통신부, SW중심대학협의회| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
 | 🏢(주)Osario 데이터리서처 & AI개발자🏢 | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
