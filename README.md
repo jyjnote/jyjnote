@@ -55,6 +55,7 @@
 
 | 작업명 | 상세 | 기간 |
 |:--------:|:------:|:------:|
+| Learnable Flow Matching Turning | [통계적 학습가능 CFM](https://github.com/jyjnote/PaperWithCode)<br>지도교수: 전남대 구은호 | 2025.08.22 ~ ing |
 | Development of a VR-Based Sleep Improvement Program for North Korean Defectors with PTSD: A Multidisciplinary Approach to Reducing Mental Health Disparities</br>- 𝒮𝓊𝓅𝑒𝓇𝓋𝒾𝓈𝒾𝓃𝑔 𝒫𝓇𝑜𝒻. 𝒦𝓌𝒶𝓃𝑔𝓂𝒾𝓃 𝐿 - | PTSD 이환 북한이탈주민 대상 VR 활용 수면장애 개선 프로그램 개발: 정신건강격차 완화를 위한 다학제적 접근 | 2025.04.03 ~ 진행 중 |
 | 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
 </div>
