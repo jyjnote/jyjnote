@@ -83,7 +83,7 @@
 |「제 25회 모바일기술대상」</br>주최: 한국정보통신진흥협회 후원: 한국경제신문, SKT(SK telecom), KT, LG유플러스<br>|시각 장애인의 모바일 이용 가능한 솔루션 " 시각 장애인 스마트 점자 지팡이 "</br>본선 진출<br>|25.07.01 ~ 25.08.22|
 | 🏆Code Club Korea SW봉사활동🏆| [Hello World Award](https://cafe.naver.com/codeclubswvolunteer) | 2024.10.26 ~ 2024.11.22 |
 | 🏆SW중심대학 전국 디지털 경진대회🏆</br>[예선 4위/기업후원상(한글과 컴퓨터)]</br>기관: 과학기술정보통신부, SW중심대학협의회| [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
-| 🏢(주)Osario 데이터리서처 & AI개발자🏢 | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
+| [🏢(주)Osario 데이터리서처 & AI개발자🏢](https://github.com/jyjnote/CERTIPICATE/tree/main/%EC%B0%BD%EC%97%85/%EC%98%A4%EC%82%AC%EB%A6%AC%EC%98%A4) | [AI도센트 TMIA](https://github.com/jyjnote/osario) | 2023.11.20 ~ 2024.12.02 |
 | GIST&전남대&조선대(연합 캡스톤) | [장애인을 위한 STT-TTS설문 전문 랭체인 챗봇 제작](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ 2024.04.23 |
 | 데이콘 소득AI 해커톤 | [상위 10%](https://dacon.io/competitions/official/236230/leaderboard) | 2024.04.02~ 2024.04.05 |
 | 🏆프로젝트 Zigzag🏆 | [삼성 멀티캠퍼스 주관 프로젝트 최우수상](https://github.com/jyjnote/Zigzag-) | 2023.10.16 ~ 2024.03.20 |
