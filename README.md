@@ -1,3 +1,8 @@
+<div align="center">
+  
+###  [CV & 포트폴리오](https://drive.google.com/drive/folders/1f8-6EKXY5v2YWsvn6ODoK51OdH8Db63U)
+
+</div>
 
 <div align="center"> 
 
