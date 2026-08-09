@@ -2,6 +2,8 @@
   
 ###  [CV & 포트폴리오](https://drive.google.com/drive/folders/1f8-6EKXY5v2YWsvn6ODoK51OdH8Db63U)
 
+### [티스토리 블로그](https://gdateclub.tistory.com/)
+
 </div>
 
 <div align="center"> 
