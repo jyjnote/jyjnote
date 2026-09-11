@@ -58,15 +58,16 @@
 <hr style="height: 3px; border: none; background-color: black;">
 
 <div align="center">
-  <h3>𝓟𝓪𝓹𝓮𝓻</h3>
+  <h3>𝓡𝓮𝓼𝓮𝓪𝓻𝓬𝓱 𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮</h3>
 
-| 작업명 | 상세 | 기간 |
-|:--------:|:------:|:------:|
-| Development of a VR-Based Sleep Improvement Program for North Korean Defectors with PTSD: A Multidisciplinary Approach to Reducing Mental Health Disparities</br>- 𝒮𝓊𝓅𝑒𝓇𝓋𝒾𝓈𝒾𝓃𝑔 𝒫𝓇𝑜𝒻. 𝒦𝓌𝒶𝓃𝑔𝓂𝒾𝓃 𝐿 - | PTSD 이환 북한이탈주민 대상 VR 활용 수면장애 개선 프로그램 개발: 정신건강격차 완화를 위한 다학제적 접근 | 2025.04.03 ~ end |
-| 논문 리뷰 및 코드구현 | [논문 리뷰 및 코드구현](https://github.com/jyjnote/PaperWithCode) | 2024.03.25 ~ ing |
+| 연구과제 | 기관 / 연구책임자 | 역할 | 참여기간 |
+|:---|:---|:---:|:---:|
+| 새로운 모달리티와 계산 효율적 대조 학습 연구 | GIST / 김홍국 교수 | Undergraduate Research Participant | 2025.01 ~ 2025.12 |
+| 인공지능-역학 하이브리드 고해상도 전지구기후모델 개발 및 활용연구 | GIST / 윤진호 교수 | Undergraduate Research Participant | 2025.04 ~ 2025.12 |
+| [램프-세부] 재생에너지 분석을 위한 다변량 모형 개발 연구 | 전남대학교 / 이광민 교수 | 학생연구자 | 2025.04 ~ 2025.08 |
+| 미세먼지가 농업에 미치는 사회·경제적 영향평가 연구 | 전남대학교 / 윤상후 교수 | 학생연구자 | 2025.04 ~ 2025.12 |
+
 </div>
-
-<hr style="height: 3px; border: none; background-color: black;">
 
 <div align="center">
   <h3>𝓘𝓷𝓽𝓮𝓻𝓷𝓼𝓱𝓲𝓹</h3>
