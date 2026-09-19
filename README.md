@@ -10,7 +10,7 @@
 
 ## 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓕𝓲𝓮𝓵𝓭𝓼
 
-𝐼 𝒶𝓂 𝒽𝒾𝑔𝒽𝓁𝓎 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝑒𝒹 𝒾𝓃 𝒩𝒶𝓉𝓊𝓇𝒶𝓁 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒 𝒫𝓇𝑜𝒸𝑒𝓈𝓈𝒾𝓃𝑔, 𝒮𝓅𝑒𝑒𝒸𝒽 𝒫𝓇𝑜𝒸𝑒𝓈𝓈𝒾𝓃𝑔 𝑀𝐿𝐸, 𝒶𝓃𝒹 𝓂𝓊𝓁𝓉𝒾-𝓂𝑜𝒹𝒶𝓁 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔.
+𝐼 𝒶𝓂 𝒽𝒾𝑔𝒽𝓁𝓎 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝑒𝒹 𝒾𝓃 𝒩𝒶𝓉𝓊𝓇𝒶𝓁 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒 𝒫𝓇𝑜𝒸𝑒𝓈𝓈𝒾𝓃𝑔, 𝒮𝓅𝑒𝑒𝒸𝒽 𝒫𝓇𝑜𝒸𝑒𝓈𝓈𝒾𝓃𝑔 𝑀𝐿𝐸, 𝒶𝓃𝒹 𝓂𝓊𝓁𝓉𝒾-𝓂𝑜𝒹𝒶𝓁 𝓁𝑒𝒶𝓇𝓃𝑔.
 
 </div>
 
@@ -108,11 +108,11 @@
 
 <h3>𝓐𝔀𝓪𝓻𝓭𝓼</h3>
 
-| 수상명 | 수상내용 | 수상일 |
-|:---|:---|:---:|
-| 🏆 Hello World Award | Code Club Korea SW교육기부단 교육봉사 우수 활동 수상 | 2024.12.27 |
-| 🏆 기업후원상 (한글과컴퓨터) | SW중심대학 전국 디지털 경진대회 예선 4위 및 기업후원상 수상 | 2024.08.06 |
-| 🏆 프로젝트 최우수상 | 삼성 멀티캠퍼스 Project Zigzag 최우수 프로젝트 선정 | 2024.03.20 |
+| 수상명 | 수상내용 | 수상내역 | 수상일 |
+|:---|:---|:---|:---:|
+| 🏆 Hello World Award | Code Club Korea SW교육기부단 교육봉사 활동 | SW·AI 교육봉사 우수 활동으로 Hello World Award 수상 | 2024.12.27 |
+| 🏆 기업후원상 (한글과컴퓨터) | 제2회 SW중심대학 디지털 경진대회 · Be memorial 프로젝트 | 예선 4위 및 한글과컴퓨터 기업후원상 수상 | 2024.08.06 |
+| 🏆 프로젝트 최우수상 | 삼성 멀티캠퍼스 Project Zigzag | 프로젝트 평가 최우수 성과로 최우수상(대상) 수상 | 2024.03.20 |
 
 </div>
 
@@ -120,17 +120,17 @@
 
 <h3>𝓟𝓻𝓸𝓳𝓮𝓬𝓽 & 𝓒𝓸𝓶𝓹𝓮𝓽𝓲𝓽𝓲𝓸𝓷</h3>
 
-| 작업명 | 상세 | 기간 |
-|:---|:---|:---:|
-| Code Club Korea SW교육기부단 | SW·AI 교육봉사 활동 | 2024.10.26 ~ 2024.11.22 |
-| SW중심대학 전국 디지털 경진대회 | [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | 2024.07.01 ~ 2024.07.19 |
-| GIST × 전남대 × 조선대 연합 캡스톤 | [장애인을 위한 STT-TTS 설문 전문 LangChain 챗봇](https://github.com/scorve12/Survey_Bot) | 2024.03.23 ~ 2024.04.23 |
-| 데이콘 소득 AI 해커톤 | [상위 10%](https://dacon.io/competitions/official/236230/leaderboard) | 2024.04.02 ~ 2024.04.05 |
-| Project Zigzag | [삼성 멀티캠퍼스 프로젝트](https://github.com/jyjnote/Zigzag-) | 2023.10.16 ~ 2024.03.20 |
-| 데이콘 대출등급 해커톤 | [Private 11위](https://dacon.io/competitions/official/236214/leaderboard) | 2024.01.15 ~ 2024.02.05 |
-| SWYG Picket | [한 해 목표를 담은 웹사이트 출시 및 배포](https://www.swygbro.com/contents) | 2023.11.19 ~ 2024.01.06 |
-| 하나증권 해외상품 모의투자대회 | 해외상품 모의투자 대회 참여 | 2023.10.05 ~ 2023.12.13 |
-| 전남대학교 편입학 데이터 시각화 | [Tableau 기반 편입학 데이터 요약 및 시각화](https://public.tableau.com/app/profile/.56658177/viz/_16978657995030/2) | 2023.10.19 ~ 2023.10.21 |
+| 작업명 | 상세 | 수상내역 | 기간 |
+|:---|:---|:---:|:---:|
+| Code Club Korea SW교육기부단 | SW·AI 교육봉사 활동 | **Hello World Award** | 2024.10.26 ~ 2024.11.22 |
+| SW중심대학 전국 디지털 경진대회 | [Be memorial](https://github.com/Mawangadulnemi/TMIA_CNU/tree/main) | **기업후원상 (한글과컴퓨터)** | 2024.07.01 ~ 2024.07.19 |
+| GIST × 전남대 × 조선대 연합 캡스톤 | [장애인을 위한 STT-TTS 설문 전문 LangChain 챗봇](https://github.com/scorve12/Survey_Bot) | - | 2024.03.23 ~ 2024.04.23 |
+| 데이콘 소득 AI 해커톤 | [상위 10%](https://dacon.io/competitions/official/236230/leaderboard) | **상위 10%** | 2024.04.02 ~ 2024.04.05 |
+| Project Zigzag | [삼성 멀티캠퍼스 프로젝트](https://github.com/jyjnote/Zigzag-) | **프로젝트 최우수상** | 2023.10.16 ~ 2024.03.20 |
+| 데이콘 대출등급 해커톤 | [Private 11위](https://dacon.io/competitions/official/236214/leaderboard) | **Private 11위** | 2024.01.15 ~ 2024.02.05 |
+| SWYG Picket | [한 해 목표를 담은 웹사이트 출시 및 배포](https://www.swygbro.com/contents) | - | 2023.11.19 ~ 2024.01.06 |
+| 하나증권 해외상품 모의투자대회 | 해외상품 모의투자 대회 참여 | - | 2023.10.05 ~ 2023.12.13 |
+| 전남대학교 편입학 데이터 시각화 | [Tableau 기반 편입학 데이터 요약 및 시각화](https://public.tableau.com/app/profile/.56658177/viz/_16978657995030/2) | - | 2023.10.19 ~ 2023.10.21 |
 
 </div>
 
