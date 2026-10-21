@@ -97,6 +97,7 @@
 
 | 기관 | 상세 | 기간 |
 |:---:|:---:|:---:|
+| 전남신용보증재단 | 신용보증 업무 지원 및 보증 고객정보 등록·관리. 공공문서 및 공공마이데이터를 활용한 보증 관련 정보 확인, 전산시스템 자료 입력·수정 | 2026.09 ~ 2027.01.01 |
 | [GIST AITer](https://sites.google.com/view/gist-aiter/home)<br/>(Audio Intelligent Technology & Research Lab) | 실시간 음성 간 번역(S2ST) AI 시스템의 TTS 모델 개발 및 추론 최적화 | 2025.06.30 ~ 2025.12.01 |
 | [ABAS](https://www.abas.life/)<br/>(Agricultural Big-data Analysis System) | 스마트팜 데이터 전처리 및 MLflow 기반 MLOps Pipeline 개발·관리 | 2025.01.15 ~ 2025.07.15 |
 
